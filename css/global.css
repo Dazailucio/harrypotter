@@ -1,0 +1,26 @@
+.harrylist{
+    list-style: none;
+    padding: 0;
+
+}
+
+.character{
+    background-color:yellow;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+
+.character .name{
+    font-family: 'Barbed Ink', sans-serif;                                          
+    font-size: 32px;
+}
+
+.character .detail{
+    display: flex;
+}
+
+.character .descripition{
+    border: black 1px solid ;
+    margin: 2rem ;
+    padding: 2rem ;
+}
